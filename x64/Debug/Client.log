@@ -1,0 +1,5 @@
+﻿  unity_IQO8F98ZQQV7PAB9.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\fntps\source\repos\WinApiLecture\Client\CScene.cpp(118,32): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\fntps\source\repos\WinApiLecture\Client\CScene.cpp(119,32): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+  Client.vcxproj -> C:\Users\fntps\source\repos\WinApiLecture\Output\bin_debug\Client.exe

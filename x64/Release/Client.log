@@ -1,0 +1,30 @@
+﻿  CAnimation.cpp
+C:\Users\fntps\source\repos\WinApiLecture\Client\CAnimation.h(40,20): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CAnimator.cpp
+C:\Users\fntps\source\repos\WinApiLecture\Client\CAnimation.h(40,20): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CCamera.cpp
+  CCollider.cpp
+  CCore.cpp
+  CEventMgr.cpp
+  CKeyMgr.cpp
+C:\Users\fntps\source\repos\WinApiLecture\Client\struct.h(27,20): error C2061: 구문 오류: 식별자 'POINT'
+C:\Users\fntps\source\repos\WinApiLecture\Client\struct.h(28,2): error C2805: 이항 'operator ='에 매개 변수가 너무 적습니다.
+C:\Users\fntps\source\repos\WinApiLecture\Client\struct.h(28,2): error C2333: 'Vec2::operator =': 함수 선언에 오류가 있습니다. 함수 본문을 건너뜁니다.
+C:\Users\fntps\source\repos\WinApiLecture\Client\struct.h(96,6): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\fntps\source\repos\WinApiLecture\Client\struct.h(96,18): error C2143: 구문 오류: ','이(가) '&' 앞에 없습니다.
+C:\Users\fntps\source\repos\WinApiLecture\Client\struct.h(14,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fntps\source\repos\WinApiLecture\Client\struct.h(97,14): error C2065: '_pt': 선언되지 않은 식별자입니다.
+C:\Users\fntps\source\repos\WinApiLecture\Client\struct.h(98,14): error C2065: '_pt': 선언되지 않은 식별자입니다.
+  CMissile.cpp
+  CMonster.cpp
+  CObject.cpp
+  CCollisionMgr.cpp
+  CPathMgr.cpp
+  CPlayer.cpp
+C:\Users\fntps\source\repos\WinApiLecture\Client\CAnimation.h(40,20): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CRes.cpp
+  CResMgr.cpp
+  CScene.cpp
+  CSceneMgr.cpp
+  CScene_Start.cpp
+  CScene_Tool.cpp
